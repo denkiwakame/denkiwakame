@@ -20,9 +20,7 @@
 **🖥️ PC Building:**  
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/amd.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/nvidia.svg"></code>  
-<img src="https://user-images.githubusercontent.com/1871262/194744526-8f839133-841e-46c3-99aa-630d328bf654.jpeg" height="188"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denkiwakame&show_icons=true&theme=dark)
-
-
+<img src="https://user-images.githubusercontent.com/1871262/194744526-8f839133-841e-46c3-99aa-630d328bf654.jpeg" height="188"> 
 
 <!--
 **denkiwakame/denkiwakame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
